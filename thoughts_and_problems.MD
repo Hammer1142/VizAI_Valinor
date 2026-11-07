@@ -1,0 +1,1 @@
+- Classes 6 trycicle and 7 awning-trycicle from the VisDrone Dataset do not have a proper mapping to the COCO classes.

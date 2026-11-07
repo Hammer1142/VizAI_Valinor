@@ -1,0 +1,1 @@
+- For phase 2 fine-tune YOLO on VisDrone to check if errors are architectural or a domain-problem

@@ -1,0 +1,18 @@
+# Dataset: ignore all subfolders (images/annotations), keep loose files like VisDrone.yaml
+/Data/*/
+
+# Model weights (download separately, see selected_task.MD)
+/model/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ultralytics output
+runs/
+
+# OS / editor
+.DS_Store
+.idea/
