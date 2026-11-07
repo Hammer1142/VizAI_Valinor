@@ -1,0 +1,11 @@
+{
+  "team_name": "Valinor",
+  "students": [
+    {
+      "first_name": "Fabian",
+      "last_name": "Hammerschmid",
+      "workload": 3.0
+    }
+    // ...add a record for each student
+  ]
+}

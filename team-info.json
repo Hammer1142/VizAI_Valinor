@@ -1,0 +1,13 @@
+{
+  "team_name": "Valinor",
+  "students": [
+    {
+      "student_id": "k52210676",
+      "first_name": "Fabian",
+      "last_name": "Hammerschmid",
+      "email": "fabian.hammerschmid@icloud.com",
+      "github_user": "Hammer1142"
+    }
+    // ...add a record for each student
+  ]
+}
