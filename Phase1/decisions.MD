@@ -1,3 +1,5 @@
 - detections only count towards our select COCO classes that map to the VisDrone classes, just keep that in mind
 - images where no detections where found contain one row with class=99 in the output file, for later analysis, these entries need be considered and filtered out before calculating stats
 - number of images is hard-coded after checking by hand for the val dataset. If a different dataset is used, this needs to be adjusted otherwise an error is thrown
+- in gt all class 0 have score 0, so are not relevant, we still keep them in the CLASS MAPPING for completeness
+- objects that are detected with a correct bounding box but classified wrong does not count as "found"

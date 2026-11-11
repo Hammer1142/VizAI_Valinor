@@ -17,7 +17,8 @@ model = YOLO(str(ROOT_DIR/"model/yolo11n.pt"))
 
 # first test image size with 640 pixels resolution for the larger side, the other side will be calculated to match the original ratio 
 # (yolo automatically downsamples to that size, original images are of larger sizes, e.g. 1920x1080), later could try higher resolution
-imgsz = 640
+# also did imgsz=1280
+imgsz = 1280
 conf = 0.1 # for better analysis later on, we allow also lower confidence
 # iou is default value 0.7
 # max_det is equal to 300 maximum detection per default, could be adjusted if needed, however tests showed that 0 images reached that 300 detections bound
