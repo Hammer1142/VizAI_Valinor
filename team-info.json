@@ -8,6 +8,15 @@
       "email": "fabian.hammerschmid@icloud.com",
       "github_user": "Hammer1142"
     }
+
+    { "student_id": "K12455624",
+      "first_name": "Ashraf",
+      "last_name": "Rumman",
+      "email": "ashraf.rumman@outlook.com",
+      "github_user": "Ashraf1997"
+
+      
+    }
     // ...add a record for each student
   ]
 }
