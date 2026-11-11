@@ -116,8 +116,6 @@ if __name__ == "__main__":
     data_path = PROJECT_ROOT / "Data" / "VisDrone2019-DET-val" / "images"
     result_path = PROJECT_ROOT / "Results"
 
-    print("Data path exists:", data_path.exists())
-    print("Resolved Data Path:", data_path)
     target_layer_num = 16
     device = "cpu"
 
