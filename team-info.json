@@ -7,27 +7,23 @@
       "last_name": "Hammerschmid",
       "email": "fabian.hammerschmid@icloud.com",
       "github_user": "Hammer1142"
-    },
-    
+    }
+    ,
     { "student_id": "K12455624",
       "first_name": "Ashraf",
       "last_name": "Rumman",
       "email": "ashraf.rumman@outlook.com",
-<<<<<<< HEAD
-      "github_user": "Ashraf11997"
-=======
-      "github_user": "Ashraf1997"   
-    },
->>>>>>> 734212e (added name)
-
+      "github_user": "Ashraf11997"   
+    }
+    ,
     { "student_id": "k01229654",
       "first_name": "Yasaman",
       "last_name": "Afsharnaderi",
       "email": "yasaman.afshaar@gmail.com",
       "github_user": "pythondv"   
-    },
-
-     { "student_id": "",
+    }
+    ,
+    { "student_id": "",
       "first_name": "",
       "last_name": "",
       "email": "",
