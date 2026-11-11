@@ -6,15 +6,23 @@
       "last_name": "Hammerschmid",
       "workload": 3.0
     }
-
+    ,
     {
       "first_name": "Ashraf",
       "last_name": "Rumman",
-      "workload": 0.25
-
-      
+      "workload": 0.25  
     }
-
-    // ...add a record for each student
+    ,
+    {
+      "first_name": "Yasaman",
+      "last_name": "Afsharnaderi",
+      "workload": 0.25  
+    }
+    ,
+    {
+      "first_name": "",
+      "last_name": "",
+      "workload":   
+    }
   ]
 }
