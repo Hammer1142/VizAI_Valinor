@@ -8,6 +8,26 @@
       "email": "fabian.hammerschmid@icloud.com",
       "github_user": "Hammer1142"
     }
-    // ...add a record for each student
+    ,
+    { "student_id": "K12455624",
+      "first_name": "Ashraf",
+      "last_name": "Rumman",
+      "email": "ashraf.rumman@outlook.com",
+      "github_user": "Ashraf11997"   
+    }
+    ,
+    { "student_id": "k01229654",
+      "first_name": "Yasaman",
+      "last_name": "Afsharnaderi",
+      "email": "yasaman.afshaar@gmail.com",
+      "github_user": "pythondv"   
+    }
+    ,
+    { "student_id": "",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "github_user": ""   
+    }
   ]
 }
